@@ -17,7 +17,6 @@ In SCLC cell line H69, MYCN is amplified ~70x. Without correction, ChIP signal a
 | `Preprocessing.sh` | 100bp windows, signal extraction from bigWigs |
 | `LOESS_Normalization_Analysis.R` | LOESS fit, residual calculation |
 | `Anomaly2_CN_Normalization.R` | Copy number estimation and correction |
-| `Addison_Yam_Watanabe_Lab_Report.pdf` | Complete case study report with figures |
 
 ## Dependencies
 - bedtools v2.31.0
